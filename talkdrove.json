@@ -4,13 +4,13 @@
   "logo": "https://files.catbox.moe/juxfce.jpg",
   "keywords": ["bot"],
   "documentation-link": "https://new-session-lfgw.onrender.com/",
-    "owner-verification":"malvink003@gmail.com",
+    "owner-verification":"sandulwarnasuriya3@gmail.com",
   
   "env": {
     "SESSION_ID": {
       "description": "Must Start with 'malvin~'",
       "required": true,
-      "value": ""
+      "value": "malvin~l6EihbiS#k6pTomwnftsNjJ_uo2y9gR8KD1ozjaogc7xq2bvccn8"
     },
       "BOT_NAME": {
         "description": "write here your bot name.",
@@ -32,12 +32,12 @@
     "OWNER_NAME": {
       "description": "Put Owner Name Here",
       "required": true,
-      "value": "ᴍᴀʟᴠɪɴ ᴋɪɴɢ"
+      "value": "Sana X"
     },
     "OWNER_NUMBER": {
       "description": "Put only one Owner Number Here",
       "required": true,
-      "value": "263714757857"
+      "value": "94721871596"
     },
     
     "PRESENCE": {
